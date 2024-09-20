@@ -48,7 +48,7 @@
          </section>
          <section>
             <h3>W poprzednich latach byliśmy...</h3>
-            <p>Strone wykonał: Karol Kort 4Ti</p>
+            <p>Strone wykonał: Jakub Pionke 4Ti</p>
          </section>
 </main>
   </body>
